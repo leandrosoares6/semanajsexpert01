@@ -1,0 +1,25 @@
+{
+  "name": "semanajsexpert01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "assets" : "npx http-server --cors -p 8081 assets/",
+    "dev" : "npx http-server --cors -p 8080 public/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leandrosoares6/semanajsexpert01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leandrosoares6/semanajsexpert01/issues"
+  },
+  "homepage": "https://github.com/leandrosoares6/semanajsexpert01#readme",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}

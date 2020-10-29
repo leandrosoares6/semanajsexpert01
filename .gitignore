@@ -1,3 +1,5 @@
+node_modules
+package-lock.json
 assets/timeline/01.intro
 assets/timeline/02.guitarra
 assets/timeline/02.violao
